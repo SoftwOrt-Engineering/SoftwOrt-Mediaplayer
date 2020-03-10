@@ -12,6 +12,11 @@ Use the <i>exe</i> file to install SoftwOrt-Mediaplayer
 If you have no rights to install on your Computer? Use the [ZIP](https://github.com/SoftwOrt-Engineering/SoftwOrt-Mediaplayer/blob/master/SoftwOrt-Mediaplayer.zip) file
 and unzip in a folder of your choice.
 
+## Sourcecode
+
+[GitHub So-Eng](https://github.com/SO-Eng/SO-MediaPlayer)
+See "Contributing"
+
 ## Features
 
 Besides the normal features you know about a simple mediaplayer like:
