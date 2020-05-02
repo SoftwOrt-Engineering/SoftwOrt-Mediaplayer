@@ -4,13 +4,15 @@ SoftwOrt-Mediaplayer is a Media- & Webradioplayer.
 
 ## Installation
 
-Use the <i>exe</i> file to install SoftwOrt-Mediaplayer
+- Download [ZIP-Container](https://github.com/SoftwOrt-Engineering/SoftwOrt-Mediaplayer/raw/master/SoftwOrt-Mediaplayer.zip) and save to youer local drive.
+- Restore ZIP file and start SO-Mediaplayer Setup.exe file
+- Have fun with this MediaPlayer!
 
+## Updates
 
-[setup.exe](https://github.com/SoftwOrt-Engineering/SoftwOrt-Mediaplayer/blob/master/SO-Mediaplayer%20Setup.exe)
+<b>1.0.0.2</b> - Issue with saving new Radiostations to the Mediaplayer fixed
 
-If you have no rights to install on your Computer? Use the [ZIP](https://github.com/SoftwOrt-Engineering/SoftwOrt-Mediaplayer/blob/master/SoftwOrt-Mediaplayer.zip) file
-and unzip in a folder of your choice.
+1.0.0.1 - Issue with installing version fixed
 
 ## Sourcecode
 
